@@ -7,3 +7,4 @@ Dies ist ein Test
 ein neuer Kommentar
 
 #git pull
+#git fetch
